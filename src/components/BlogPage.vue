@@ -38,7 +38,7 @@ export default {
     return {
       items: [
         {
-          title: 'Title 1',
+          title: 'Meeting terkait produk baru',
           description: 'Saksikanlah saat kami memecahkan batas konvensional dengan desain yang revolusioner, kualitas suara yang menggelegar, dan fitur-fitur pintar yang akan merubah cara Anda menikmati musik sehari-hari. Dapatkan wawasan mendalam tentang proses pengembangan dari para ahli di balik layar, dan temui tim desain yang telah berjuang keras untuk menciptakan earphone terbaik yang memenuhi standar kualitas tinggi kami.',
           buttonLink: '#',
           buttonText: 'Find out more',
@@ -46,7 +46,7 @@ export default {
           link: '#'
         },
         {
-          title: 'Title 2',
+          title: 'Produktivitas meningkat',
           description: 'Tingkatkan gaya hidup mobile Anda dengan koneksi nirkabel yang nyaman, membebaskan Anda dari kabel yang kusut dan memberikan kebebasan untuk bergerak tanpa batasan. Serahkan diri Anda pada kualitas suara kristal yang memanjakan telinga Anda, sambil tetap merasakan sentuhan lembut dan ringan yang membuat Anda lupa bahwa Anda memakai headphones.',
           buttonLink: '#',
           buttonText: 'Find out more',
@@ -54,7 +54,7 @@ export default {
           link: '#'
         },
         {
-          title: 'Title 3',
+          title: 'Kenyamanan dalam setiap aspek',
           description: 'Dengan bantalan lembut yang melingkupi telinga Anda seperti belaian lembut, dan desain ergonomis yang dirancang untuk menyesuaikan diri dengan kontur kepala Anda, headphones kami menciptakan keseimbangan sempurna antara gaya dan kenyamanan. Nikmati setiap detik mendengarkan musik, podcast, atau panggilan konferensi dengan tanpa gangguan, berkat fitur noise-cancellation yang canggih.',
           buttonLink: '#',
           buttonText: 'Find out more',
